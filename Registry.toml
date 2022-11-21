@@ -1,0 +1,6 @@
+name = "JuliaPatents"
+uuid = "b85771d4-2143-43a9-8803-d6ca01da9685"
+repo = "https://github.com/JuliaPatents/Registry.git"
+description = "Julia package ecosystem for handling patent data"
+
+[packages]
