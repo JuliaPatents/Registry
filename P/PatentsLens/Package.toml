@@ -1,3 +1,3 @@
 name = "PatentsLens"
 uuid = "f4645b53-4539-42ef-9ea4-c70e89c10300"
-repo = "git@github.com:JuliaPatents/PatentsLens.jl.git"
+repo = "https://github.com/JuliaPatents/PatentsLens.jl.git"
